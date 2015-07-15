@@ -2,5 +2,29 @@
     {
         "author": "Pete Hunt",
         "text": "Hey there!"
+    },
+    {
+        "author": "ads",
+        "text": "asd"
+    },
+    {
+        "author": "New Author",
+        "text": "Lets see this polling in action!"
+    },
+    {
+        "author": "Testing",
+        "text": "Testing the new form and server connection"
+    },
+    {
+        "author": "Mr Optimistic",
+        "text": "Its sooo fast!"
+    },
+    {
+        "author": "Testname",
+        "text": "Masser af tekst!!!"
+    },
+    {
+        "author": "Mit navn",
+        "text": "hej med dig"
     }
 ]
